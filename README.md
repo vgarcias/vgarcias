@@ -11,7 +11,7 @@ Web developer with the responsibilities such as influence corporate decision mak
 Expertise in strategic planning for the technological directions for several enterprise level, Internet related companies. Gained diverse experience in the aggregation of hardware and software development. Additional experience includes substantial programming experience with various open source internet related languages.
 Software Engineer, designing, developing, and implementing e-commerce Internet applications, Trading Networks and Intranet Portals.
 
-Specialties: Building business applications throught web open source code.
+Specialties: Building business applications throught web open source code.EOF
 
 
 <!---
