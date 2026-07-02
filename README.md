@@ -38,6 +38,21 @@ I enjoy solving complex business problems through simple, maintainable software.
 
 # 💡 What I Do
 
+## Web Developer
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- Drupal
+- Joomla
+- Umbraco
+- JQuery
+- Bootstrap
+- Foundation
+
+---
+
 ## Enterprise WordPress
 
 - Custom Themes
@@ -205,7 +220,7 @@ Facebook Graph API
 
 # 🌎 Featured Projects
 
-## Virtual Auction ERP
+## Subastas Virtuales ERP
 
 Designed and developed an online auction platform that evolved into a configurable ERP supporting inventory, auctions, customers, reporting and administration.
 
@@ -220,22 +235,6 @@ Enterprise WordPress platform
 - Laravel Applications
 - PHP Development
 - YouTube API
-
----
-
-## Run Riviera
-
-Revenue Operations technology company.
-
-Worked on:
-
-- WordPress
-- Infrastructure
-- Docker
-- Linux
-- GitHub
-- Nginx
-- APIs
 
 ---
 
